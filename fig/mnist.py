@@ -10,7 +10,7 @@ import cPickle
 import sys
 
 # My library
-sys.path.append('../src/')
+sys.path.append('../original/')
 import mnist_loader
 
 # Third-party libraries

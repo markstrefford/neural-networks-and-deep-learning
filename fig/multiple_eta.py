@@ -13,7 +13,7 @@ import random
 import sys
 
 # My library
-sys.path.append('../src/')
+sys.path.append('../original/')
 import mnist_loader
 import network2
 
